@@ -1,0 +1,28 @@
+@font-face {
+        font-family: Branch;
+        src: url(./assets/fonts/Branch.ttf);
+}
+@font-face {
+        font-family: Rosi;
+        src: url(./assets/fonts/Rosiebrownscriptdemo-K7Pve.otf);
+}
+@font-face {
+        font-family: Rosi;
+        src: url(./assets/fonts/pramodia-demo.ttf);
+}
+@font-face {
+        font-family: silk;
+        src: url(./assets/fonts/Silka-Regular.otf);
+}
+@font-face {
+        font-family: mont;
+        src: url(./assets/fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+        font-family: deli;
+        src: url(./assets/fonts/DeliriumNcv-Vm5e.ttf);
+}
+.main-body{
+        background-color: #14453D;
+}
+
